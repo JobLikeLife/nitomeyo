@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="">
     <div class="container">
         <a class="navbar-brand" href="/home">Nitomeyo App</a>
         <ul class="navbar-nav justify-content-end">
